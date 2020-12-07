@@ -1,0 +1,25 @@
+Collecting mkdocs-redirects
+  Downloading mkdocs-redirects-1.0.1.tar.gz (4.8 kB)
+Requirement already satisfied: mkdocs>=1.0.4 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs-redirects) (1.1.2)
+Requirement already satisfied: Markdown>=3.2.1 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (3.3.1)
+Requirement already satisfied: tornado>=5.0 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (6.0.4)
+Requirement already satisfied: click>=3.3 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (7.1.2)
+Requirement already satisfied: lunr[languages]==0.5.8 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (0.5.8)
+Requirement already satisfied: PyYAML>=3.10 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (5.3.1)
+Requirement already satisfied: Jinja2>=2.10.1 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (2.11.2)
+Requirement already satisfied: livereload>=2.5.1 in d:\anaconda3\envs\web\lib\site-packages (from mkdocs>=1.0.4->mkdocs-redirects) (2.6.3)
+Requirement already satisfied: six>=1.11.0 in d:\anaconda3\envs\web\lib\site-packages (from lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (1.15.0)
+Requirement already satisfied: future>=0.16.0 in d:\anaconda3\envs\web\lib\site-packages (from lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (0.18.2)
+Requirement already satisfied: nltk>=3.2.5; python_version > "2.7" and extra == "languages" in d:\anaconda3\envs\web\lib\site-packages (from lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (3.5)
+Requirement already satisfied: MarkupSafe>=0.23 in d:\anaconda3\envs\web\lib\site-packages (from Jinja2>=2.10.1->mkdocs>=1.0.4->mkdocs-redirects) (1.1.1)
+Requirement already satisfied: joblib in d:\anaconda3\envs\web\lib\site-packages (from nltk>=3.2.5; python_version > "2.7" and extra == "languages"->lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (0.17.0)
+Requirement already satisfied: regex in d:\anaconda3\envs\web\lib\site-packages (from nltk>=3.2.5; python_version > "2.7" and extra == "languages"->lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (2020.10.15)
+Requirement already satisfied: tqdm in d:\anaconda3\envs\web\lib\site-packages (from nltk>=3.2.5; python_version > "2.7" and extra == "languages"->lunr[languages]==0.5.8->mkdocs>=1.0.4->mkdocs-redirects) (4.50.2)
+Building wheels for collected packages: mkdocs-redirects
+  Building wheel for mkdocs-redirects (setup.py): started
+  Building wheel for mkdocs-redirects (setup.py): finished with status 'done'
+  Created wheel for mkdocs-redirects: filename=mkdocs_redirects-1.0.1-py3-none-any.whl size=5368 sha256=a5405e7e4cf958a5f3cedc26e7871c857943e8165a832566cd1e7f0093a20830
+  Stored in directory: c:\users\admin\appdata\local\pip\cache\wheels\e8\9f\1b\9b3d87bbc3183942a05d82df5299d30009907361c75ff86d55
+Successfully built mkdocs-redirects
+Installing collected packages: mkdocs-redirects
+Successfully installed mkdocs-redirects-1.0.1
