@@ -150,7 +150,7 @@ nav:
     - Customization: customization.md
     - Troubleshooting: troubleshooting.md
     - Data privacy: data-privacy.md
-    - Insiders: insiders.md
+    - 获取专业版: 获取专业版本.md
     - License: license.md
   - 组学:
     - Changing the colors: setup/changing-the-colors.md
@@ -181,11 +181,10 @@ nav:
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
   - 关于我们:
-    - Release notes: changelog.md
     - 团队介绍: changelog.md
     - 问题反馈: 问题反馈.md
     - 更新记录: 更新记录.md
-    - 更新计划: upgrading.md
+    - 更新计划: 更新计划.md
     - Deprecations: deprecations.md
 
 # Google Analytics
