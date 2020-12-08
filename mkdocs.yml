@@ -19,13 +19,12 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
+site_name: 六点了
 site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_author: 六点了团队
 site_description: >-
-  Create a branded static site from a set of Markdown files to host the
-  documentation of your Open Source or commercial project – customizable,
-  searchable, mobile-friendly, 40+ languages
+  专业的生物信息知识库，提供系统的生物信息知识检索与学习途径，在这里，你可以
+  尽情查阅NGS，医学统计学，科研绘图等技术文档与教程。
 
 # Repository
 repo_name: squidfunk/mkdocs-material
@@ -33,7 +32,7 @@ repo_url: https://github.com/squidfunk/mkdocs-material
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2016 - 2020 Martin Donath
+copyright: Copyright &copy; 2020 六点了团队
 
 # Configuration
 theme:
@@ -49,7 +48,7 @@ theme:
   search_index_only: true
 
   # Default values, taken from mkdocs_theme.yml
-  language: en
+  language: zh
   features:
     - navigation.tabs
     #- navigation.instant
@@ -90,9 +89,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/squidfunk
     - icon: fontawesome/brands/gitter
-      link: https://gitter.im/squidfunk/mkdocs-material
+      link: https://gitter.im/6-oclock/bioinfo-wiki
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+      link: https://hub.docker.com/u/6oclock
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/squidfunk
     - icon: fontawesome/brands/linkedin
@@ -144,16 +143,16 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
+  - 知识库介绍:
+    - 使用简介: 使用简介.md
+    - 知识分类准则: 知识分类准则.md
     - Publishing your site: publishing-your-site.md
     - Customization: customization.md
     - Troubleshooting: troubleshooting.md
     - Data privacy: data-privacy.md
     - Insiders: insiders.md
     - License: license.md
-  - Setup:
+  - 组学:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
     - Changing the language: setup/changing-the-language.md
@@ -181,9 +180,12 @@ nav:
     - MathJax: reference/mathjax.md
     - Meta tags: reference/meta-tags.md
     - Variables: reference/variables.md
-  - Changelog:
+  - 关于我们:
     - Release notes: changelog.md
-    - Upgrading: upgrading.md
+    - 团队介绍: changelog.md
+    - 问题反馈: 问题反馈.md
+    - 更新记录: 更新记录.md
+    - 更新计划: upgrading.md
     - Deprecations: deprecations.md
 
 # Google Analytics
