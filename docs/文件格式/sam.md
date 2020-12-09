@@ -1,3 +1,7 @@
+---
+template: overrides/main.html
+---
+
 # sam文件
 
 
