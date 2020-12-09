@@ -89,7 +89,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
+      link: https://github.com/6-oclock
     - icon: fontawesome/brands/gitter
       link: https://gitter.im/6-oclock/bioinfo-wiki
     - icon: fontawesome/brands/docker
