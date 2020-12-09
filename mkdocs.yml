@@ -27,8 +27,8 @@ site_description: >-
   尽情查阅NGS，医学统计学，科研绘图等技术文档与教程。
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: 6-oclock/example-data
+repo_url: https://github.com/6-oclock/example-data
 edit_uri: ""
 
 # Copyright
@@ -59,9 +59,11 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  # favicon: assets/favicon.png
+  favicon: assets/logo.png
+  logo: assets/logo.png
   icon:
-    logo: logo
+    logo: assets/logo.png
 
 # Plugins
 plugins:
@@ -92,12 +94,7 @@ extra:
       link: https://gitter.im/6-oclock/bioinfo-wiki
     - icon: fontawesome/brands/docker
       link: https://hub.docker.com/u/6oclock
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/squidfunk
-    - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/squidfunk/
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/squidfunk
+
 
 # Extensions
 markdown_extensions:
@@ -165,27 +162,20 @@ nav:
     - Adding a git repository: setup/adding-a-git-repository.md
     - Adding a comment system: setup/adding-a-comment-system.md
     #- Adding a landing page: setup/adding-a-landing-page.md
-  - Reference:
-    - Abbreviations: reference/abbreviations.md
-    - Admonitions: reference/admonitions.md
-    - Buttons: reference/buttons.md
-    - Code blocks: reference/code-blocks.md
-    - Content tabs: reference/content-tabs.md
-    - Data tables: reference/data-tables.md
-    - Footnotes: reference/footnotes.md
-    - Formatting: reference/formatting.md
-    - Icons + Emojis: reference/icons-emojis.md
-    - Images: reference/images.md
-    - Lists: reference/lists.md
-    - MathJax: reference/mathjax.md
-    - Meta tags: reference/meta-tags.md
-    - Variables: reference/variables.md
+  - 文件格式:
+    - fastq: 文件格式/FASTQ.md
+    - sam/bam: 文件格式/sam.md
+    - 参考基因组: 文件格式/reference.md
+
+  - 名词解释:
+    - 外显子组相关: 名词解释/WES测序相关.md
+
   - 关于我们:
     - 团队介绍: changelog.md
     - 问题反馈: 问题反馈.md
     - 更新记录: 更新记录.md
     - 更新计划: 更新计划.md
-    - Deprecations: deprecations.md
+    - 致谢: deprecations.md
 
 # Google Analytics
 google_analytics:
