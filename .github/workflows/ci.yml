@@ -21,6 +21,7 @@
 name: ci
 on:
   - push
+  - commit
   - pull_request
 
 # Environment
