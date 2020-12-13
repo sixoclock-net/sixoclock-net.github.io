@@ -55,6 +55,6 @@ jobs:
             mkdocs-redirects>=1.0
 
       # Build documentation
-        run: |
+      - run: |
           mkdocs gh-deploy --force
           mkdocs --version
