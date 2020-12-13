@@ -29,7 +29,7 @@ site_description: >-
 # Repository
 repo_name: 6-oclock/example-data
 repo_url: https://github.com/6-oclock/example-data
-edit_uri: ""
+edit_uri: "https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs"
 
 # Copyright
 copyright: Copyright &copy; 2020 六点了团队
