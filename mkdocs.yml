@@ -30,6 +30,7 @@ site_description: >-
 repo_name: 6-oclock/example-data
 repo_url: https://github.com/6-oclock/example-data
 edit_uri: "https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs"
+# edit_uri: ""
 
 # Copyright
 copyright: Copyright &copy; 2020 六点了团队
@@ -144,7 +145,7 @@ nav:
     - 使用简介: 使用简介.md
     - 知识分类准则: 知识分类准则.md
     - 获取专业版: 获取专业版本.md
-    - License: license.md
+    # - License: license.md
   - 组学:
     - 基因组学: 组学/基因组学.md
     - 转录组学: 组学/转录组学.md
