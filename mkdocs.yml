@@ -155,7 +155,22 @@ nav:
     - 参考基因组: 文件格式/reference.md
 
   - 名词解释:
-    - 外显子组相关: 名词解释/WES测序相关.md
+    - 外显子组相关:
+      - 名词解释/CNV.md
+      - 名词解释/INDEL.md
+      - 名词解释/multi-hits_reads.md
+      - 名词解释/Reads.md
+      - 名词解释/SD区域.md
+      - 名词解释/SNP和SNV.md
+      - 名词解释/soft-clipped_reads.md
+      - 名词解释/变异.md
+      - 名词解释/基因.md
+      - 名词解释/基因家族.md
+      - 名词解释/基因型与表型.md
+      - 名词解释/结构变异SV.md
+      - 名词解释/外显子.md
+      - 名词解释/外显子测序.md
+      - 名词解释/外显子组.md
 
   - 关于我们:
     - 团队介绍: 团队介绍.md
