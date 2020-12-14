@@ -139,7 +139,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - 首页: index.md
   - 知识库介绍:
     - 使用简介: 使用简介.md
     - 知识分类准则: 知识分类准则.md

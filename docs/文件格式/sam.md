@@ -1,10 +1,4 @@
----
-template: overrides/main.html
----
-
 # sam文件
-
-
 
 # 功能简介
 
