@@ -68,7 +68,9 @@ theme:
 
 # Plugins
 plugins:
-  - search
+  - search:
+      lang: ja
+      separator: '[\n]+'
   - redirects:
   #     redirect_maps:
   #       extensions/admonition.md: reference/admonitions.md
@@ -172,7 +174,8 @@ nav:
       - 名词解释/外显子.md
       - 名词解释/外显子测序.md
       - 名词解释/外显子组.md
-
+  - 实用工具:
+    - BWA: 工具/BWA.md
   - 关于我们:
     - 团队介绍: 团队介绍.md
     - 问题反馈: 问题反馈.md
