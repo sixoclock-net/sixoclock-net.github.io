@@ -4,7 +4,7 @@
 
 ## 功能简介
 
- FASQT格式是用于存储生物序列（通常是核苷酸序列）及其相应的碱基质量分数的一种文本格式。为简洁起见，序列字母和质量分数均使用单个ASCII字符进行编码。最初由[Wellcome Trust Sanger Institute](https://zh.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute)（桑格研究所）开发用于捆绑FASTA格式的序列和其碱基质量分数的，现在已成为存储Illumina Genome Analyzer（Illumina基因组分析仪）等高通量测序仪的标准输出格式。 通俗讲FASTQ格式就是工程师开发的一种用于存储ATCG序列的文件。
+ FASQT格式是用于存储生物序列（通常是核苷酸序列）及其相应的碱基质量分数的一种文本格式。为简洁起见，序列字母和质量分数均使用单个ASCII字符进行编码。最初由Wellcome Trust Sanger Institute（桑格研究所）开发用于捆绑FASTA格式的序列和其碱基质量分数的，现在已成为存储Illumina Genome Analyzer（Illumina基因组分析仪）等高通量测序仪的标准输出格式。 通俗讲FASTQ格式就是工程师开发的一种用于存储ATCG序列的文件。
 
 ## 文件格式
 
@@ -30,11 +30,12 @@ GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTT
 
 完整的格式解读说明如下：
 
- ![Illumina 数据的一个范例](img/7976641-18ceaafbce3d93d7.png) 
+!!! example "Illumina 数据的一个范例"
+	![Illumina 数据的一个范例](img/7976641-18ceaafbce3d93d7.png)
 
 ​																			
-
- ![简明范例](img/7976641-3d135e9d507be8b1.png) 
+!!! note "一个简明范例"
+​	![简明范例](img/7976641-3d135e9d507be8b1.png)
 
 ​																				
 
@@ -47,19 +48,20 @@ GATTTGGGGTTCAAAGCAGTATCGATCAAATAGTAAATCCATTTGTTCAACTCACAGTT
 ```
 
 具体规范为，
+!!! example "fastq格式具体规范解读"
 
-| EAS139  | the unique instrument name                                   |
-| ------- | ------------------------------------------------------------ |
-| 136     | the run id                                                   |
-| FC706VJ | the flowcell id                                              |
-| 2       | flowcell lane                                                |
-| 2104    | tile number within the flowcell lane                         |
-| 15343   | 'x'-coordinate of the cluster within the tile                |
-| 197393  | 'y'-coordinate of the cluster within the tile                |
-| 1       | the member of a pair, 1 or 2 *(paired-end or mate-pair reads only)* |
-| Y       | Y if the read is filtered, N otherwise                       |
-| 18      | 0 when none of the control bits are on, otherwise it is an even number |
-| ATCACG  | index sequence                                               |
+    | EAS139  | the unique instrument name                                   |
+    | ------- | ------------------------------------------------------------ |
+    | 136     | the run id                                                   |
+    | FC706VJ | the flowcell id                                              |
+    | 2       | flowcell lane                                                |
+    | 2104    | tile number within the flowcell lane                         |
+    | 15343   | 'x'-coordinate of the cluster within the tile                |
+    | 197393  | 'y'-coordinate of the cluster within the tile                |
+    | 1       | the member of a pair, 1 or 2 *(paired-end or mate-pair reads only)* |
+    | Y       | Y if the read is filtered, N otherwise                       |
+    | 18      | 0 when none of the control bits are on, otherwise it is an even number |
+    | ATCACG  | index sequence                                               |
 
 
 
