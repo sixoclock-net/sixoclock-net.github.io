@@ -159,23 +159,23 @@ nav:
 
   - 名词解释:
     - 外显子组相关:
-      - 名词解释/CNV.md
-      - 名词解释/INDEL.md
-      - 名词解释/multi-hits_reads.md
-      - 名词解释/Reads.md
-      - 名词解释/SD区域.md
-      - 名词解释/SNP和SNV.md
-      - 名词解释/soft-clipped_reads.md
-      - 名词解释/变异.md
-      - 名词解释/基因.md
-      - 名词解释/基因家族.md
-      - 名词解释/基因型与表型.md
-      - 名词解释/结构变异SV.md
-      - 名词解释/外显子.md
-      - 名词解释/外显子测序.md
-      - 名词解释/外显子组.md
-      - 名词解释/CDS.md
-      - 名词解释/PCR重复.md
+      - 名词解释/WES相关/CDS.md
+      - 名词解释/WES相关/CNV.md
+      - 名词解释/WES相关/INDEL.md
+      - 名词解释/WES相关/multi-hits_reads.md
+      - 名词解释/WES相关/PCR重复.md
+      - 名词解释/WES相关/Reads.md
+      - 名词解释/WES相关/SD区域.md
+      - 名词解释/WES相关/SNP和SNV.md
+      - 名词解释/WES相关/soft-clipped_reads.md
+      - 名词解释/WES相关/变异.md
+      - 名词解释/WES相关/基因.md
+      - 名词解释/WES相关/基因家族.md
+      - 名词解释/WES相关/基因型与表型.md
+      - 名词解释/WES相关/结构变异SV.md
+      - 名词解释/WES相关/外显子.md
+      - 名词解释/WES相关/外显子测序.md
+      - 名词解释/WES相关/外显子组.md
       
     - 全基因组相关:
       - 名词解释/WGS相关/GC含量.md
