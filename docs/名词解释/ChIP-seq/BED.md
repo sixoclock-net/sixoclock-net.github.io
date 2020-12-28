@@ -1,6 +1,6 @@
-**BED file**
+**BED 文件**
 
-BED的全称是Browser Extensible Data，是为genome browser设计的。BED包含有3个必须的字段和9个可选字段。
+BED的全称是Browser Extensible Data，是为基因组浏览器（genome browser）设计的。BED包含有3个必须的字段和9个可选字段。
 三个字段包括：
 1 chrom - 染色体名字
 2 chromStart - 染色体起始位点
