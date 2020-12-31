@@ -133,7 +133,7 @@ Qillumina-prior to v.1.4 = -10log10(p/(1-p))
 
 ​    虽然两个映射在更高质量值处渐近地相同，但它们在较低质量水平下不同（即，近似p> 0.05等同Q <13）。
 
-![img](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Probability_metrics.svg/600px-Probability_metrics.svg.png)
+![img](../../img/3532.png/600px-Probability_metrics.svg.png)
 
 使用Sanger（红色）和Solexa（黑色）方程（如上所述）的Q和p之间的关系。 垂直虚线表示p = 0.05，或等同地Q≈13。
 
