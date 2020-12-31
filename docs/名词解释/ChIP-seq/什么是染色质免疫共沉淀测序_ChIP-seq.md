@@ -2,7 +2,7 @@
 
 结合CHIP和NGS技术，把细胞内的DNA与蛋白质交联（即将目标蛋白与染色质连结起来）后裂解细胞，分离染色体，通过超声或酶处理将染色质随机切割，利用抗原抗体的特异性识别反应，将与目的蛋白相结合的DNA片段沉淀下来，再通过反交联释放结合蛋白的DNA片段，最后测序获得DNA片段的序列。
 
-![image-20201224172643754](C:\Users\24495\AppData\Roaming\Typora\typora-user-images\image-20201224172643754.png)
+![image-20201224172643754](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/image-20201224172643754.png)
 
 缺点：常规ChIP-Seq实验需要大量细胞，且实验重复性差、信噪比低。
 优点：ChIP-Seq由于能真实、完整地反映结合在DNA序列上的靶蛋白，是目前全基因组水平研究DPI的标准实验技术。
