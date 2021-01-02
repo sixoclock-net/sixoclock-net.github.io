@@ -1,3 +1,3 @@
 # 什么是Contig？
 
-拼接软件基于reads之间的overlap区，拼接获得的序列称为Contig（重叠群）。
+Contig（重叠群）是基因组装中的一个术语，用于指拼接软件基于多个reads之间的overlap区拼接获得的连续碱基序列。
