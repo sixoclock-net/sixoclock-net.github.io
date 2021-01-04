@@ -159,28 +159,28 @@ nav:
 
   - 名词解释:
     - ATAC-seq:
-      - 名词解释/ATAC-seq/ATAC-Seq
-      - 名词解释/ATAC-seq/DNase-Seq
+      - 名词解释/ATAC-seq/ATAC-Seq.md
+      - 名词解释/ATAC-seq/DNase-Seq.md
       - 名词解释/ATAC-seq/DNA转座.md
-      - 名词解释/ATAC-seq/FAIRE-Seq
-      - 名词解释/ATAC-seq/Tn5酶
+      - 名词解释/ATAC-seq/FAIRE-Seq.md
+      - 名词解释/ATAC-seq/Tn5酶.md
       - 名词解释/ATAC-seq/核小体.md
       - 名词解释/ATAC-seq/染色体.md
       - 名词解释/ATAC-seq/染色质.md
-      - 名词解释/ATAC-seq/染色质可及性
+      - 名词解释/ATAC-seq/染色质可及性.md
       - 名词解释/ATAC-seq/增强子.md
     - ChIP-seq:
       - 名词解释/ChIP-seq/ChIPseeker.md
       - 名词解释/ChIP-seq/ChIP-seq.md
+      - 名词解释/ChIP-seq/Contig.md
       - 名词解释/ChIP-seq/Contig-N50.md
       - 名词解释/ChIP-seq/FASTQ格式.md
       - 名词解释/ChIP-seq/MACS2.md
-      - 名词解释/ChIP-seq/什么是Contig.md
-      - 名词解释/ChIP-seq/什么是Scaffold.md
-      - 名词解释/ChIP-seq/什么是Scaffold_N50.md
-      - 名词解释/ChIP-seq/什么是表观遗传学.md
-      - 名词解释/ChIP-seq/什么是泊松分布.md
-      - 名词解释/ChIP-seq/什么是染色质免疫共沉淀测序_ChIP-seq.md
+      - 名词解释/ChIP-seq/Scaffold.md
+      - 名词解释/ChIP-seq/Scaffold_N50.md
+      - 名词解释/ChIP-seq/表观遗传学.md
+      - 名词解释/ChIP-seq/泊松分布.md
+      - 名词解释/ChIP-seq/染色质免疫共沉淀测序_ChIP-seq.md
       - 名词解释/ChIP-seq/组蛋白.md
     - m6A:
       - 名词解释/m6A/Erasers.md

@@ -6,13 +6,13 @@
 
 染色质免疫共沉淀技术（Chromatin Immunoprecipitation，**ChIP**）也称结合位点分析法，是研究体内蛋白质与DNA相互作用的有力工具，通常用于转录因子结合位点或组蛋白特异性修饰位点的研究。
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-6675a2c50cb60369.png)
+![img](../../img/7288149-6675a2c50cb60369.png)
 
 多种组学手段
 
 #### 二、实验
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-2e447b62777df4f6.png)
+![img](../../img/7288149-2e447b62777df4f6.png)
 
 ChIP实验模式图
 
@@ -24,7 +24,7 @@ ChIP实验模式图
 
 （1）双峰模型
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-e1299ac90a323e50.png)
+![img](../../img/7288149-e1299ac90a323e50.png)
 
 检峰过程
 
@@ -34,7 +34,7 @@ MACS2是基于模型（**泊松分布**）的方法进行检峰的，上述示�
 
 （2）检峰
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-d61a594f7131efae.png)
+![img](../../img/7288149-d61a594f7131efae.png)
 
 单链双峰模型
 
@@ -52,7 +52,7 @@ Reads向中心Shift 1/2d的距离；以长度2d的窗口扫描全基因组得到
 
 （1） 窄峰 -转录因子等
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-a12667fea69629dc.png)
+![img](../../img/7288149-a12667fea69629dc.png)
 
 专转录因子
 
@@ -60,7 +60,7 @@ Reads向中心Shift 1/2d的距离；以长度2d的窗口扫描全基因组得到
 
 
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-633e06a7c621bf01.png)
+![img](../../img/7288149-633e06a7c621bf01.png)
 
 聚合酶II
 
@@ -68,7 +68,7 @@ Reads向中心Shift 1/2d的距离；以长度2d的窗口扫描全基因组得到
 
 
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-9f0f596d2340ceda.png)
+![img](../../img/7288149-9f0f596d2340ceda.png)
 
 组蛋白
 
@@ -100,11 +100,11 @@ Reads向中心Shift 1/2d的距离；以长度2d的窗口扫描全基因组得到
 
 参考如下文章：
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-1dcb4ad721b10715.png)
+![img](../../img/7288149-1dcb4ad721b10715.png)
 
 检峰软件比较
 
-![img](https://github.com/sixoclock-net/sixoclock-net.github.io/tree/master/docs/img/7288149-422d44bf3f6adf12.png)
+![img](../../img/7288149-422d44bf3f6adf12.png)
 
 检峰精确性比较(NRSF基序)
 
@@ -115,10 +115,3 @@ Reads向中心Shift 1/2d的距离；以长度2d的窗口扫描全基因组得到
 [2] https://en.wikipedia.org/wiki/ChIP-sequencing
 
 [3] https://www.illumina.com/techniques/sequencing/dna-sequencing/chip-seq.html
-
-
-
-作者：浩渺予怀
-链接：https://www.jianshu.com/p/0c272643f88b
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。

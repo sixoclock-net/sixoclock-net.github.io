@@ -1,4 +1,4 @@
-# [FASTQ格式](https://www.cnblogs.com/yahengwang/p/8973948.html)
+# FASTQ格式
 
 ​    FASQT格式是用于存储生物序列（通常是核苷酸序列）及其相应的碱基质量分数的一种文本格式。为简洁起见，序列字母和质量分数均使用单个ASCII字符进行编码。最初由[Wellcome Trust Sanger Institute](https://zh.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute)（桑格研究所）开发用于捆绑FASTA格式的序列和其碱基质量分数的，现在已成为存储Illumina Genome Analyzer（Illumina基因组分析仪）等高通量测序仪的标准输出格式。
 
@@ -252,8 +252,4 @@ Qillumina-prior to v.1.4 = -10log10(p/(1-p))
 # 参考资料
 
 [wiki FASTQ](https://en.wikipedia.org/wiki/FASTQ_format#File_extension)
-
- 
-
-转载请标明《http://www.cnblogs.com/yahengwang/p/8973948.html》
 
