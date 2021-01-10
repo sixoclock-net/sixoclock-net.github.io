@@ -182,6 +182,10 @@ nav:
       - 名词解释/ChIP-seq/泊松分布.md
       - 名词解释/ChIP-seq/染色质免疫共沉淀测序_ChIP-seq.md
       - 名词解释/ChIP-seq/组蛋白.md
+    - lncRNA:
+      - 名词解释/lncRNA/lncRNA.md
+      - 名词解释/lncRNA/核酸二级结构.md
+      - 名词解释/lncRNA/开放阅读框.md
     - m6A:
       - 名词解释/m6A/Erasers.md
       - 名词解释/m6A/m6A.md
@@ -190,6 +194,15 @@ nav:
       - 名词解释/m6A/Readers.md
       - 名词解释/m6A/SCARLET.md
       - 名词解释/m6A/Writers.md
+    - smallRNA:
+      - 名词解释/smallRNA/gRNA.md
+      - 名词解释/smallRNA/microRNA.md
+      - 名词解释/smallRNA/piRNA.md
+      - 名词解释/smallRNA/siRNA.md
+      - 名词解释/smallRNA/SmallRNA.md
+      - 名词解释/smallRNA/snoRNA.md
+      - 名词解释/smallRNA/snRNA.md
+      - 名词解释/smallRNA/tmRNA.md
     - WES相关:
       - 名词解释/WES相关/CDS.md
       - 名词解释/WES相关/CNV.md
@@ -264,6 +277,32 @@ nav:
       - 名词解释/WGS相关/遗传变异.md
       - 名词解释/WGS相关/正负链.md
       - 名词解释/WGS相关/重测序.md
+    - 蛋白组学:
+      - 名词解释/蛋白组学/从头预测.md
+      - 名词解释/蛋白组学/蛋白质.md
+      - 名词解释/蛋白组学/蛋白质的翻译后修饰.md
+      - 名词解释/蛋白组学/蛋白质定性分析.md
+      - 名词解释/蛋白组学/蛋白质全谱分析.md
+      - 名词解释/蛋白组学/蛋白质组学.md
+      - 名词解释/蛋白组学/分子动力学.md
+      - 名词解释/蛋白组学/高效液相色谱法.md
+      - 名词解释/蛋白组学/模拟退火.md
+      - 名词解释/蛋白组学/同源建模.md
+      - 名词解释/蛋白组学/修饰蛋白质组学.md
+    - 动植物重测序:
+      - 名词解释/动植物重测序/BLUP.md
+      - 名词解释/动植物重测序/eQTL.md
+      - 名词解释/动植物重测序/LD.md
+      - 名词解释/动植物重测序/背景基因.md
+      - 名词解释/动植物重测序/串联重复序列.md
+      - 名词解释/动植物重测序/关联分析.md
+      - 名词解释/动植物重测序/哈迪-温伯格定律.md
+      - 名词解释/动植物重测序/基因型分型.md
+      - 名词解释/动植物重测序/曼哈顿图.md
+      - 名词解释/动植物重测序/数量性状.md
+      - 名词解释/动植物重测序/协方差.md
+      - 名词解释/动植物重测序/遗传力.md
+      - 名词解释/动植物重测序/质量性状.md
     - 羟甲基化:
       - 名词解释/羟甲基化/羟甲基化.md
       - 名词解释/羟甲基化/乙酰化.md
