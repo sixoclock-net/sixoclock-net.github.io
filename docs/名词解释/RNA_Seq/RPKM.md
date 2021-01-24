@@ -2,6 +2,7 @@ RPKM（Reads Per Kilobase of exon model per Million mapped reads），即每千�
 $$
 RPKM= total~exon~reads/ (mapped~reads~(Millions) * exon~length(KB))
 $$
+
 total exon reads：某个样本mapping到特定基因的外显子上的所有的reads；
 
 mapped reads ( Millions ) :某个样本的所有reads总和；
