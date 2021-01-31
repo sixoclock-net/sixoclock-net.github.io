@@ -1,0 +1,3 @@
+__ITS鉴定__
+
+ITS（Internal Transcribed Spacer）鉴定是指对ITS序列进行DNA测序，通过将测序得到的ITS序列与已知真菌ITS序列比较，从而获得待测真菌种属信息的一种方法。
