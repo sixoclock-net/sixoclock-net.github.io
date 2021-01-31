@@ -1,7 +1,6 @@
-FPKM（Fragments Per Kilobase of exon model per Million mapped fragments），每千个碱基的转录每百万映射读取的fragments，与RPKM的区别主要是FPKM针对pair-end测序表达量进行计算。
-$$
-RPKM= total~exon~fragments/ (mapped~reads~(Millions) * exon~length(KB))
-$$
+每千个碱基的转录每百万映射读取的fragments(FPKM, Fragments Per Kilobase of exon model per Million mapped fragments), 与RPKM的区别主要是:FPKM针对pair-end测序表达量进行计算。
+
+RPKM= total_exon_fragments/ (mapped_reads(Millions) * exon_length(KB))
 
 total exon fragments：某个样本mapping到特定基因的外显子上的所有的fragments；
 
